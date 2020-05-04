@@ -1,2 +1,4 @@
 Gitの練習をします。
 いっぱい賢くなる。
+.git add
+.git commit
